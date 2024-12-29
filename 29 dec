@@ -1,0 +1,26 @@
+git === Git is a free and open source distributed version control system designed to handle everything 
+from small to very large projects with speed and efficiency.
+
+
+For the use of git we have to install it
+after installation it we have to giveit our user name and password
+for user name use     git config --global user.name "rohan"
+for the email  git config --global user.email "itsmerohansainiok@gmail.com"
+
+
+                                                ///FILE OR DIRCTORY COMMAND
+------------------------------------------------------------------------------------------------------------------------------
+dir -l check the no of files not count hidden files
+dir -a  dhow the name of all file inculuding all hidden file
+
+
+
+                                               CREATING FILE USING GIT
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+now afer initilazation the global usename and gmail now we creat a file using git bash
+go to desktop and make a folder now afe\ter right click we see open using git bash 
+after opening using git use ========== dir -l  for check no. of files
+for creating file use  ===== neno 1st.txt
+afer prssing enter a text temial open write what ever you want after that
+to save press crtrl +X
+then yes and afetr that press ENTER now you file is created
